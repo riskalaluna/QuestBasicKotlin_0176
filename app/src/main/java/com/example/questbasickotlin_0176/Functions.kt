@@ -35,6 +35,5 @@ fun main(){
     withoutParameter()
     withParameter("John")
     withNamedArgument(name = "John", age = 30)
-    withDefaultParameter(age = 25)
-
+    withDefaultParameter(age = 25)
 }
